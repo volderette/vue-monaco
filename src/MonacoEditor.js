@@ -1,4 +1,5 @@
 import assign from 'nano-assign'
+import { h } from 'vue'
 
 export default {
   name: 'MonacoEditor',
